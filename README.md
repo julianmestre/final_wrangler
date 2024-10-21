@@ -1,4 +1,4 @@
-# Final Wangler
+# Final Wrangler
 
 Gradescope allows lecturers to download fine-grained evaluations data. For each problem/question in the exam/assessment, it generates a file where each row represents a student, and each column represent a rubric item, which is set to True when a given rubric item was applied to a given student.
 
